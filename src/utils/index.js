@@ -10,6 +10,7 @@ class Movie {
 
   add() {
     movieArr.push(this);
+    // console.log(this)
   }
 
 }
